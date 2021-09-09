@@ -1,2 +1,3 @@
 # OttomanEmpirev2
-Basit - Sentetik NFT
+
+It is a simple Synthetic NFT written in Solidity language
